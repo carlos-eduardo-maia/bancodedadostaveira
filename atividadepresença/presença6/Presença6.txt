@@ -1,0 +1,5 @@
+Atividade de Presença - 06
+Qº) usando as entidades Cliente e Contrato:
+  Cliente agora possui um código e o Contrato tem código, numero e categoria.
+  Associando as duas, temos a entidade associativa Cliente do Contrato, que possui todas as características das duas entidades:
+  (Código do cliente, código do contrato, número do contrato e categoria)

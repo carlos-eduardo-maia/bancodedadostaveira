@@ -1,0 +1,2 @@
+Atividade de Presença - 07
+Qº) O Modelo tem que ser atualizado, ou seja, as informações que ficam ultrapassadas ou "datadas" tem que ser excluídas, já que um banco de dados não pode ter um tamanho indefinido.

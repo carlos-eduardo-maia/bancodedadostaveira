@@ -1,0 +1,2 @@
+Atividade de Presença - 02
+Qº) São sistemas em que os arquivos do banco de dados são unificados, onde um arquivo pode ter registros de outros arquivos com outras informações.

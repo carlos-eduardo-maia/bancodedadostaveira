@@ -1,0 +1,4 @@
+Atividade de Presença - 09
+Qº) Tabela é um conjunto de linhas, armazenando dados e com cada linha sendo composta por uma série de campos.
+Na linguagem de banco de dados SQL, existe um conjunto de comandos que organiza o esquema de funcionamento.
+Essa linguagem possui os comandos que cumprem as operações CRUD, criando uma nova tabela, excluindo uma tabela existente e alterar algo na tabela.

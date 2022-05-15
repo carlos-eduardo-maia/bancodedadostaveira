@@ -1,0 +1,4 @@
+Atividade de Presença - 03
+1º) Principal componente do projeto lógico de um BD.
+2º) Projeto onde a estrutura lógica é criada de acordo com os requisitos de manipulação de dados e estruturas da aplicação.
+3º) Projeto onde o banco de dados é estruturado para um determinado servidor e otimizar para que a estrutura tenha melhor desempenho e administração.

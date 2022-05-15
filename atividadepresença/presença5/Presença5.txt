@@ -1,0 +1,8 @@
+Atividade de Presença - 05
+a) Máxima: essa cardinalidade define quantas ocorrências da entidade podem participar de uma conexão.
+Mínima: define se é obrigatório duas entidades terem alguma relação.
+Exemplo, Temos uma Entidade País e outra Unidade Federativa, existem países que nao tem uma UF, então faz parte de uma Mínima.
+Toda vez que existir uma Unidade federativa, ela vai ser associada a um País. Definindo a cardinalidade máxima
+b) 1 ; 1 Exemplo, Tem uma entidade Pessoa e outra entidade Cliente, a pessoa pode ser um cliente, mas o cliente obrigatoriamente tem que ser uma pessoa.
+c) 1 ; n Temos um Produto e sua Categoria, um produto pode não ter uma categoria, mas a categoria sempre vai pertencer a um produto.
+d) n ; n Temos um Cliente e um Contrato de venda, o cliente pode comemorar um mais de um contrato e o contrato pode ser celebrado por um ou mais de um cliente.

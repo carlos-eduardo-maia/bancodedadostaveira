@@ -1,0 +1,8 @@
+Atividade de Presença - 04
+a) Principais objetos de dados onde as informações são coletadas, exemplo: pessoa, lugar ou evento.
+b) Associações entre uma ou mais entidades.
+c) Características das entidades, fazem com que elas tenham uma descrição.
+d) Conjunto de valores onde os atributos pegam suas características(valores).
+e) Generalização/especialização especifica que vários tipos de entidades com atributos comuns podem ser generalizados para um tipo de entidade maior.
+f) Conexões que mostram e descrevem o que duas entidades diferentes têm em comum.
+g) Cardinalidade é a contagem de elementos associados a uma conexão.

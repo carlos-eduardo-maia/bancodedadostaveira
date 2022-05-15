@@ -1,0 +1,10 @@
+Atividade de Presença - 08
+a) Conjunto sem ordem de linhas, mas que armazena dados de uma entidade.
+b) Coluna ou combinação de colunas onde seus valores diferenciam linhas de uma tabela.
+c) Coluna ou combinação de colunas que aparecem na chave primária, implantando relacionamentos entre entidades.
+d) Também diferencia as linhas de uma tabela, mas após as chaves primárias.
+e) Conjunto de valores de cada coluna da tabela.
+f) Especifica a função que um valor deve cumprir em uma coluna.
+g) Especifica se os campos em uma coluna podem estar vazios ou não.
+h) Define que os valores da chave primária e alternativa são únicos.
+i) Define que os valores da chave estrangeira devem aparecer na chave primária.

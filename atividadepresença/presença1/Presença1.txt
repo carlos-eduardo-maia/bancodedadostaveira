@@ -1,0 +1,5 @@
+Atividade de Presença - 01
+1º) Dado é o componente básico de um arquivo em um sistema, podemos falar como exemplo nomes e sobrenomes.
+2º) Informação é o conjunto dos componentes, organizados de determinada maneira, podemos citar como exemplo uma lista com os dados; nome e sobrenome.
+3º) Arquivo são uma coleção de registros no qual os sistemas BD são baseados.
+4º) Bancos de Dados são uma coleção de dados, que são organizados para processar informações importantes para os usuários.
