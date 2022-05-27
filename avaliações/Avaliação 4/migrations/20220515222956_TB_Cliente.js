@@ -4,12 +4,10 @@
  */
  exports.up = function(knex){
     return knex.schema.createTable('TB_Cliente', table => {
-    table.number('id').primary;
-    table.number('codigo').notNull();
-    table.string('cnpjcpf').notNull().unique;
-    table.number('nome').notNull();
-    table.enum('TipoCliente', ['Pessoa_Fisica', 'Pessoa_Juridica']).defaultTo('Pessoa_Fisica')
-
+    table.number('ID').primary;
+    table.number('Código').notNull();
+    table.string('CnpjCpf').notNull().unique;
+    table.number('Nome').notNull();
 });
 };
 /**
